@@ -18,7 +18,7 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "casio/unirest-php": "^2.0.0",
+        "casio/unirest-php": "dev-casio-pagarme",
         "apimatic/jsonmapper": "^2.0.2"
     },
     "require-dev": {
