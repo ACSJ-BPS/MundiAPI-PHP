@@ -13,7 +13,7 @@ use MundiAPILib\Http\HttpResponse;
 use MundiAPILib\APIException;
 use MundiAPILib\Exceptions;
 use \apimatic\jsonmapper\JsonMapper;
-use Unirest\Request;
+use Casio\Unirest\Request;
 
 /**
 * Base controller

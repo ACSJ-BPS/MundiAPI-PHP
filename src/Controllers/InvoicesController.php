@@ -17,7 +17,7 @@ use MundiAPILib\Http\HttpRequest;
 use MundiAPILib\Http\HttpResponse;
 use MundiAPILib\Http\HttpMethod;
 use MundiAPILib\Http\HttpContext;
-use Unirest\Request;
+use Casio\Unirest\Request;
 
 /**
  * @todo Add a general description for this controller.
