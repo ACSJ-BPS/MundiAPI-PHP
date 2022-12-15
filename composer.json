@@ -19,7 +19,7 @@
         "ext-json": "*",
         "ext-mbstring": "*",
         "casio/unirest-php": "dev-casio-pagarme",
-        "apimatic/jsonmapper": "^2.0.2"
+        "apimatic/jsonmapper": "^3.0.*"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^2.7"
