@@ -13,18 +13,12 @@
             "role": "API Tool"
         }
     ],
-    "repositories": {
-        "casio-apimatic-unirest-php": {
-            "type": "git",
-            "url": "https://github.com/ACSJ-BPS/unirest-php.git"
-        }
-    },
     "require": {
         "php": ">=5.4.0",
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "casio/unirest-php": "dev-casio-pagarme",
+        "casio/unirest-php": "2.3.1",
         "apimatic/jsonmapper": "^3.0.0"
     },
     "require-dev": {
